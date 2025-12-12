@@ -1,4 +1,4 @@
-# Nokia-Snake-Game
+# Nokia-Snake-Game 🐍
 Classic Snake game in C++ using Raylib
 
 A classic **Snake game** implemented in C++ using **Raylib**.  
@@ -20,3 +20,4 @@ This project demonstrates game development basics
 - Smooth graphics with Raylib
   
 - Simple, clean, and fun game loop
+🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
