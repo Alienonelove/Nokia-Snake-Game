@@ -20,4 +20,5 @@ This project demonstrates game development basics
 - Smooth graphics with Raylib
   
 - Simple, clean, and fun game loop
+  
 🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
